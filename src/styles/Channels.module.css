@@ -1,0 +1,24 @@
+.main{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+.card {
+    text-align: center;
+    background-color: goldenrod;
+    border-radius: 5px;
+    padding: 5px;
+    margin: 15px;
+}
+
+.card:hover {
+    background-color: gold;
+    cursor: pointer;
+}
+
+.form {
+    display: flex;
+    margin: 15px;
+}
